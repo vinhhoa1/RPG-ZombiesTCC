@@ -1,5 +1,5 @@
 # RPG-ZombiesTCC
-I made this game back when i was still attending community college. I model the game's map after the real building i was taking class in. The game story is what i  imagined what would happpen if zombies suddenly attackt the school.
+I made this game back when i was still attending community college. The game story is what i  imagined what would happpen if zombies suddenly attack the school i was attending.
 Install instruction: 
   -Download or clone the whole repository
   -Doulle click on Game.exe to play
